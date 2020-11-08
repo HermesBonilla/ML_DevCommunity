@@ -7,7 +7,7 @@
 1. Week 1 (link needed)
 2. Work in Progress!
 
-### Installation
+## Installation
 ```bash
 git clone https://github.com/HermesBonilla/ML_DevCommunity.git
 ```
