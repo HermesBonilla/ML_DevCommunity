@@ -1,13 +1,14 @@
 # ML_DevCommunity
 
 **Welcome! This is the official repository for the Machine Learning (and AI) Dev Community at FIU's Google Developer Student Club (DSC).**
+---
 
 ## Contents
----
+
 1. Week 1 (link needed)
 2. Work in Progress!
 
-### Week 1
+## Installation
 ```bash
 git clone https://github.com/HermesBonilla/ML_DevCommunity.git
 ```
