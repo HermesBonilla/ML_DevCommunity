@@ -5,7 +5,7 @@
 
 ## Contents
 
-1. Week 1 (link needed)
+1. Week 1 [Here](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%201)
 2. Work in Progress!
 
 ## Installation
