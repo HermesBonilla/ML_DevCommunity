@@ -10,14 +10,19 @@ We do not add any of the datasets used in the projects here for ease, but they c
 
 ## Contents
 
-1. [Bonus](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Bonus)
-2. [Week 1](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%201)
-3. [Week 2](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%202)
-4. [Week 3](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%203)
-5. [Week 4](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%204)
-6. [Week 5](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%205)
-7. [Week 6](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%206)
-8. []()
+[Bonus](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Bonus) 
+    
+[Week 1](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%201)
+
+[Week 2](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%202)
+
+[Week 3](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%203)
+
+[Week 4](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%204)
+
+[Week 5](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%205)
+
+[Week 6](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%206)
 
 ## Installation
 ```bash
