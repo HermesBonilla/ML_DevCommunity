@@ -24,6 +24,44 @@ We do not add any of the datasets used in the projects here for ease, but they c
 
 [Week 6](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%206)
 
+## File Structure
+
+```bash
+│
+├───Bonus
+│   ├───Intro to ML
+│   │       filler.txt
+│   │
+│   └───NLP Whatsapp Chat
+│           CalcSampleChatBetween2People.txt
+│           NLP_WhatsappNotebook.ipynb
+│
+├───Week 1
+│       pandasWorkshop.ipynb
+│
+├───Week 2
+│       DSC_Logo.png
+│       matplotlibworkshop.ipynb
+│
+├───Week 3
+│       my_pipeline.pickle
+│       sci-kitWorkshop.ipynb
+│
+├───Week 4
+│       aiModelWorkshop.ipynb
+│       insurance.csv
+│
+├───Week 5
+│       ComputerVisionWorkshop.ipynb
+│
+├───Week 6
+│       NLP-PredictorWorkshop.ipynb
+│       prideandprejudice_clean.txt
+│       tokenizer1.pkl
+│
+└───Week 7
+```
+
 ## Installation
 ```bash
 git clone https://github.com/HermesBonilla/ML_DevCommunity.git
