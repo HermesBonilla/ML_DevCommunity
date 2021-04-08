@@ -4,7 +4,7 @@
 
 **Welcome! This is the official repository for the Machine Learning (and AI) Dev Community at FIU's Google Developer Student Club (DSC).**
 ---
-We do not add any of the datasets used in the projects here for ease, but they can be find in each Deepnote notebook (both linked and direct in the notebook).
+We do not add any of the datasets used in the projects here for ease, but they can be found in each Deepnote notebook (both linked in the notebook and in the folder's READMEs).
 
 <br clear="left"/>
 
