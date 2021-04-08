@@ -30,36 +30,44 @@ We do not add any of the datasets used in the projects here for ease, but they c
 │
 ├───Bonus
 │   ├───Intro to ML
-│   │       filler.txt
+│   │       README.md
 │   │
 │   └───NLP Whatsapp Chat
 │           CalcSampleChatBetween2People.txt
 │           NLP_WhatsappNotebook.ipynb
+│           README.md
 │
 ├───Week 1
 │       pandasWorkshop.ipynb
+│       README.md
 │
 ├───Week 2
 │       DSC_Logo.png
 │       matplotlibworkshop.ipynb
+│       README.md
 │
 ├───Week 3
 │       my_pipeline.pickle
+│       README.md
 │       sci-kitWorkshop.ipynb
 │
 ├───Week 4
 │       aiModelWorkshop.ipynb
 │       insurance.csv
+│       README.md
 │
 ├───Week 5
 │       ComputerVisionWorkshop.ipynb
+│       README.md
 │
 ├───Week 6
 │       NLP-PredictorWorkshop.ipynb
 │       prideandprejudice_clean.txt
+│       README.md
 │       tokenizer1.pkl
 │
 └───Week 7
+        README.md
 ```
 
 ## Installation
