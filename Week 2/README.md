@@ -1,3 +1,5 @@
+# MatplotLib Workshop
+
 ## Workshop Media
 
 [Recording](https://youtu.be/dXAE7-_I4j8)
