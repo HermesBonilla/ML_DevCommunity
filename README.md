@@ -26,6 +26,10 @@ We do not add any of the datasets used in the projects here for ease, but they c
 
 [Week 7](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%207)
 
+[Week 8](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%208)
+
+[Week 9](https://github.com/HermesBonilla/ML_DevCommunity/tree/main/Week%209)
+
 ## File Structure
 
 ```bash
