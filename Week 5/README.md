@@ -1,3 +1,5 @@
+# Computer Vision Workshop
+
 ## Workshop Media
 
 [Recording](https://youtu.be/1cxX1iUzbBY)
