@@ -1,3 +1,5 @@
+# Introduction to Machine Learning Workshop
+
 ## Workshop Media
 
 [Recording](https://youtu.be/ZtcO2IDrxHM)
