@@ -72,7 +72,13 @@ We do not add any of the datasets used in the projects here for ease, but they c
 │       README.md
 │       tokenizer1.pkl
 │
-└───Week 7
+├───Week 7
+│       README.md
+│
+├───Week 8
+│       README.md
+│
+└───Week 9
         README.md
 ```
 
